@@ -1,0 +1,38 @@
+			body{
+				height: 100%;
+				margin: 0;
+				padding: 0;
+				font-family: 'Merriweather Sans',sans-serif;
+				font-size: 3em;
+				text-shadow: 0 0 10px #000;
+				color: #fff;
+				background: #888;
+				background-repeat: no-repeat;
+				background-attachment: fixed;
+				background-size: cover;
+			}
+			section{
+				min-height: 100%;
+			}
+			h1{
+				font-size: 2em;
+				padding: 0 0.3em;
+				line-height: 1em;
+
+				<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">Share</a></div>
+			}
+			p{
+				padding: 0 1em;
+			}
+			a{
+				color: #fff;
+			}
+			footer{
+				position: absolute;
+				bottom: 0;
+				font-size: 0.5em;
+			}*/
+			#temperature{
+				text-decoration: none;
+				border-bottom: 0.05em dotted white;
+			}
